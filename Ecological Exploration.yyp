@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"sprInstructions","path":"sprites/sprInstructions/sprInstructions.yy",},"order":12,},
     {"id":{"name":"sprJungle1","path":"sprites/sprJungle1/sprJungle1.yy",},"order":14,},
     {"id":{"name":"GoodPlant","path":"rooms/GoodPlant/GoodPlant.yy",},"order":4,},
     {"id":{"name":"BadEnd","path":"sprites/BadEnd/BadEnd.yy",},"order":8,},
@@ -13,6 +14,7 @@
     {"id":{"name":"sprBadPlant","path":"sprites/sprBadPlant/sprBadPlant.yy",},"order":3,},
     {"id":{"name":"objFloating3","path":"objects/objFloating3/objFloating3.yy",},"order":11,},
     {"id":{"name":"sprMainScreen","path":"sprites/sprMainScreen/sprMainScreen.yy",},"order":5,},
+    {"id":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":3,},
     {"id":{"name":"sprTree","path":"sprites/sprTree/sprTree.yy",},"order":15,},
     {"id":{"name":"BadPlant","path":"rooms/BadPlant/BadPlant.yy",},"order":5,},
@@ -49,6 +51,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"MainScreen","path":"rooms/MainScreen/MainScreen.yy",},},
+    {"roomId":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"GoodPlant","path":"rooms/GoodPlant/GoodPlant.yy",},},
     {"roomId":{"name":"BadPlant","path":"rooms/BadPlant/BadPlant.yy",},},
