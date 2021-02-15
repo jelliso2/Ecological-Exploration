@@ -27,6 +27,8 @@
     {"isDnD":true,"eventNum":56,"eventType":6,"collisionObjectId":null,"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":7,"collisionObjectId":null,"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":64,"eventType":8,"collisionObjectId":null,"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objGoodPlant","path":"objects/objGoodPlant/objGoodPlant.yy",},"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objBadPlant","path":"objects/objBadPlant/objBadPlant.yy",},"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
