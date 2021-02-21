@@ -26,6 +26,7 @@
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objBullet","path":"objects/objBullet/objBullet.yy",},"parent":{"name":"objEnemy2","path":"objects/objEnemy2/objEnemy2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"objEnemy2","path":"objects/objEnemy2/objEnemy2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"parent":{"name":"objEnemy2","path":"objects/objEnemy2/objEnemy2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":1,"eventType":2,"collisionObjectId":null,"parent":{"name":"objEnemy2","path":"objects/objEnemy2/objEnemy2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

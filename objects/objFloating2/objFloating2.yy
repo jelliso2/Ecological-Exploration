@@ -3,7 +3,7 @@
     "name": "sprJungle5",
     "path": "sprites/sprJungle5/sprJungle5.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

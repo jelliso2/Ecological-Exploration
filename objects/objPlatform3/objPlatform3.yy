@@ -3,7 +3,7 @@
     "name": "sprJungle3",
     "path": "sprites/sprJungle3/sprJungle3.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
