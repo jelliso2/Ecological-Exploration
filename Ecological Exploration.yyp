@@ -14,6 +14,7 @@
     {"id":{"name":"sprJungle2","path":"sprites/sprJungle2/sprJungle2.yy",},"order":0,},
     {"id":{"name":"sprBatEnemy","path":"sprites/sprBatEnemy/sprBatEnemy.yy",},"order":13,},
     {"id":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"order":8,},
+    {"id":{"name":"ScoreFont","path":"fonts/ScoreFont/ScoreFont.yy",},"order":0,},
     {"id":{"name":"objBadPlant","path":"objects/objBadPlant/objBadPlant.yy",},"order":3,},
     {"id":{"name":"sprBadPlant","path":"sprites/sprBadPlant/sprBadPlant.yy",},"order":3,},
     {"id":{"name":"objFloating3","path":"objects/objFloating3/objFloating3.yy",},"order":11,},

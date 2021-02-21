@@ -32,6 +32,8 @@
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objEnemy","path":"objects/objEnemy/objEnemy.yy",},"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":1,"eventType":2,"collisionObjectId":null,"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objEnemy2","path":"objects/objEnemy2/objEnemy2.yy",},"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objBadDrop","path":"objects/objBadDrop/objBadDrop.yy",},"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objGoodDrop","path":"objects/objGoodDrop/objGoodDrop.yy",},"parent":{"name":"objSpaceMan","path":"objects/objSpaceMan/objSpaceMan.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
