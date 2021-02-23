@@ -19,6 +19,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"Enter","path":"objects/Enter/Enter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Enter","path":"objects/Enter/Enter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":9,"eventType":9,"collisionObjectId":null,"parent":{"name":"Enter","path":"objects/Enter/Enter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
