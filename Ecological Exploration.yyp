@@ -55,6 +55,7 @@
     {"id":{"name":"sprJungle6","path":"sprites/sprJungle6/sprJungle6.yy",},"order":4,},
     {"id":{"name":"sprGoodEnd","path":"sprites/sprGoodEnd/sprGoodEnd.yy",},"order":21,},
     {"id":{"name":"sprBatEnemy2","path":"sprites/sprBatEnemy2/sprBatEnemy2.yy",},"order":14,},
+    {"id":{"name":"objGameSound","path":"objects/objGameSound/objGameSound.yy",},"order":20,},
     {"id":{"name":"objTree","path":"objects/objTree/objTree.yy",},"order":13,},
     {"id":{"name":"objGoodPlant","path":"objects/objGoodPlant/objGoodPlant.yy",},"order":2,},
     {"id":{"name":"objPlatform1","path":"objects/objPlatform1/objPlatform1.yy",},"order":12,},

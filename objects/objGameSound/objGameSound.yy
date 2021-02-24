@@ -1,9 +1,6 @@
 {
-  "spriteId": {
-    "name": "sprTree",
-    "path": "sprites/sprTree/sprTree.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -20,15 +17,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"objGameSound","path":"objects/objGameSound/objGameSound.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Jungle",
-    "path": "folders/Objects/Jungle.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objTree",
+  "name": "objGameSound",
   "tags": [],
   "resourceType": "GMObject",
 }
