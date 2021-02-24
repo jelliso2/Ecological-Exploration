@@ -9,5 +9,6 @@ audio_pause_sound(soMenuMusic);
 /// @DnDVersion : 1
 /// @DnDHash : 42B9AB3B
 /// @DnDArgument : "soundid" "soGameMusic"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "soGameMusic"
-audio_play_sound(soGameMusic, 0, 0);
+audio_play_sound(soGameMusic, 0, 1);
